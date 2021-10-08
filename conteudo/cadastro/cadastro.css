@@ -67,3 +67,20 @@ fieldset input {
 }
 
 
+@media screen and (min-width: 650px) and (max-width: 1300px) {
+    .blur {
+        margin: 0;
+        margin-left: 10%;
+        width: 75%;
+    }
+}
+@media screen and (min-width: 300px) and (max-width: 649px) {
+    .blur {
+        margin: 0;
+        margin-left: 10%;
+        width: 75%;
+        height: 60%;
+    }
+}
+
+
